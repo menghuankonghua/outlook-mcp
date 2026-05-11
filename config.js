@@ -98,5 +98,5 @@ module.exports = {
   USE_IMMUTABLE_IDS: process.env.OUTLOOK_IMMUTABLE_IDS === 'true',
 
   // Timezone
-  DEFAULT_TIMEZONE: process.env.DEFAULT_TIMEZONE || 'Australia/Melbourne', // Updated for Nathan's timezone
+  DEFAULT_TIMEZONE: process.env.DEFAULT_TIMEZONE || 'Asia/Shanghai', // Updated for Nathan's timezone
 };
